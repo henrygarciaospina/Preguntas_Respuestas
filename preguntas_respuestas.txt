@@ -1,0 +1,12 @@
+Crear un segundo nombre para una variable método,alias
+Usado para definir una función,def
+Lenguaje de marcado para la elaboración de páginas web,html
+Lenguaje que define el estilo de una página web,css
+Etiqueta semántica para definir una sección de una página web,section
+Lenguaje de programación en el front-end,javascript
+Framework más popular de Ruby,ruby on rails
+Framework creado por Twitter para el Front-end,bootstrap
+Precompilador JavaScript por defecto de Ruby on Rails,coffeescript
+Precompilador CSS por defecto de Ruby on Rails,sass
+Recurso externo para ampliar la funcionalidad de una app en Ruby,gem
+Archivo para especificar los gems de una app en Ruby on Rails,gemfile
